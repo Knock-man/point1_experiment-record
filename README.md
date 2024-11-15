@@ -15,6 +15,7 @@
   *workers=12*  
  
 ## 实验： roBert-BILSTM(IMDB)
+参数：hidden_size=320
 | Accuracy | precision |  recall | specificity |  f1_score | loss
 | --- | --- | --- | --- | --- | --- | 
 | 0.94 | 0.9346 | 0.9493 | 0.9340 | 0.9419 | 0.3705 |
